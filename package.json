@@ -12,9 +12,9 @@
   ],
   "dependencies": {
     "gulp": "~3.5.6",
-    "gulp-template": "~0.1.1",
+    "gulp-template": "~4.0.0",
     "gulp-install": "~0.1.1",
-    "gulp-conflict": "~0.1.1",
+    "gulp-conflict": "~0.3.0",
     "gulp-rename": "~1.2.0",
     "underscore.string": "~2.3.3",
     "inquirer": "~0.4.1"
